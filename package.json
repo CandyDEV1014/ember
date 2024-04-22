@@ -1,6 +1,6 @@
 {
   "name": "motocal",
-  "version": "2023-w16-rc1",
+  "version": "1.0.0",
   "description": "This is motocal",
   "private": true,
   "directories": {
